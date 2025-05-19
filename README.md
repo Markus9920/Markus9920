@@ -3,7 +3,6 @@ I'm currently studying programming at Sasky College of Services in Tampere, Finl
 In this portfolio, I've included code samples from my own projects and from projects I've participated in.
 
 
-Samples from my projects
 Class for creating a user account and securely hashing the password using salt.
 The password is hashed with a randomly generated salt using the PBKDF2 algorithm.
 Both the resulting hash and the salt are stored in the database as base64 strings.
