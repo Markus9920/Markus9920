@@ -7,6 +7,7 @@ This controller manages user-related API endpoints such as account creation and 
 It also handles token generation using JWT.  
 [UserController.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Controllers/UserController.cs)
 [TokenService.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Services/TokenService.cs)
+
 This controller allows users to add and manage recurring expenses.  
 It uses enums to define recurrence types and categories, ensuring clean and consistent data handling.
 []()
