@@ -8,7 +8,7 @@ It allows users to manage and plan their monthly expenses. The development took 
 AI tools were used for learning purposes, such as building the API, SQL database, and integrating Swagger documentation.
 JWT authentication is implemented, and token validation is handled by custom middleware.
 The project also uses enums to represent recurring expense types and categories, which improves data consistency and code readability.
-[BudgetManager](./BudgetManaget.md)
+[BudgetManager](https://github.com/Markus9920/Markus9920/blob/main/BudgedManager.md)
 
 
 <!--
