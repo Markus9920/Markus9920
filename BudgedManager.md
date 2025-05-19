@@ -14,7 +14,7 @@ This ensures that both the backend logic and the database remain aligned: [Recur
 
 Category enums: [Categories.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Models/Categories.cs) <br>
 Class that process the category enums and adds them into database. The int value of the enum is used as id number in database: [CategoryManager.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Data/CategoryManager.cs)<br><br>
-Recurrencetypes which determines what is the frequency, when teh expense recurrs: [RecurrenceType.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Models/RecurrenceType.cs)
+Recurrencetypes which determines what is the frequency, when teh expense recurrs: [RecurrenceType.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Models/RecurrenceType.cs) [RecurrExpenseService.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Services/RecurrExpenseService.cs)<br>
 [ReferenceDataController.cs](http://github.com/Markus9920/CSharp/blob/main/BudgetManager/Controllers/ReferenceDataController.cs)
 
 Most of the code in this repository was written or modified by me during the project.  
