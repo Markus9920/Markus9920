@@ -13,7 +13,7 @@ It uses enums to define recurrence types and categories, which are also inserted
 This ensures that both the backend logic and the database remain aligned: [RecurrinExpenseController.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Controllers/RecurrinExpenseController.cs) <br>
 
 Category enums: [Categories.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Models/Categories.cs) <br>
-Class that process the category enums and adds them into database. The int value of the enum is used as id number in database: [CategoryManager.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Data/CategoryManager.cs)<br>
+Class that process the category enums and adds them into database. The int value of the enum is used as id number in database: [CategoryManager.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Data/CategoryManager.cs)<br><br>
 [RecurrenceType.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Models/RecurrenceType.cs)
 [ReferenceDataController.cs](http://github.com/Markus9920/CSharp/blob/main/BudgetManager/Controllers/ReferenceDataController.cs)
 
