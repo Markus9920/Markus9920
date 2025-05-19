@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 My name is Markus and this is my portfolio.
+I'm currently studying programming at Sasky College of Services in Tampere, Finland.
+In this portfolio, I've included code samples from my own projects and from projects I've participated in.
+
+
+[PasswordHasher.cs](./Security/PasswordHasher.cs)
 
 <!--
 **Markus9920/Markus9920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
