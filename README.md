@@ -4,7 +4,9 @@ In this portfolio, I've included code samples from my own projects and from proj
 
 
 Samples from my projects
-
+Class for creating a user account and securely hashing the password using salt.
+The password is hashed with a randomly generated salt using the PBKDF2 algorithm.
+Both the resulting hash and the salt are stored in the database as base64 strings.
 [UserAccount.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Models/UserAccount.cs)
 
 
