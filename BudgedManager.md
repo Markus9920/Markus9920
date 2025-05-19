@@ -8,9 +8,14 @@ It also handles token generation using JWT.
 [UserController.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Controllers/UserController.cs)
 [TokenService.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Services/TokenService.cs)
 
-This controller allows users to add and manage recurring expenses.  
-It uses enums to define recurrence types and categories, ensuring clean and consistent data handling.
-[]()
+This controller allows users to add and manage recurring expenses.
+It uses enums to define recurrence types and categories, which are also inserted into the database when new values are added.
+This ensures that both the backend logic and the database remain aligned.
+[RecurrinExpenseController.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Data/RecurringExpensesManager.cs)
+[Categories.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Models/Categories.cs)
+[CategoryManager.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Data/CategoryManager.cs)
+[RecurrenceType.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Models/RecurrenceType.cs)
+[ReferenceDataController.cs](http://github.com/Markus9920/CSharp/blob/main/BudgetManager/Controllers/ReferenceDataController.cs)
 
 Most of the code in this repository was written or modified by me during the project.  
 You can browse the full source code here:
