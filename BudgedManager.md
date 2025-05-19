@@ -10,7 +10,7 @@ It also handles token generation using JWT.
 
 This controller allows users to add and manage recurring expenses.
 It uses enums to define recurrence types and categories, which are also inserted into the database when new values are added.
-This ensures that both the backend logic and the database remain aligned.
+This ensures that both the backend logic and the database remain aligned.<br>
 [RecurrinExpenseController.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Controllers/RecurrinExpenseController.cs)
 Categroy enums. These are handled as strings [Categories.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Models/Categories.cs)
 Class that process the enums and adds them into database. The int value of the enum is used as id number[CategoryManager.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Data/CategoryManager.cs)
