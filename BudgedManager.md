@@ -5,7 +5,7 @@ Both the hashed password and the generated salt are stored in the SQL database.
 
 This controller manages user-related API endpoints such as account creation and login.  
 It also handles token generation using JWT.  
-[UserController.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Controllers/UserController.cs)
+[UserController.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Controllers/UserController.cs) <br>
 [TokenService.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Services/TokenService.cs)
 
 This controller allows users to add and manage recurring expenses.
