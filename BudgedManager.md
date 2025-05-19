@@ -1,6 +1,6 @@
 
 This class handles user account creation, including secure password hashing and salting using PBKDF2.  
-Both the hashed password and the generated salt are stored in the SQL database. 
+Both the hashed password and the generated salt are stored in the SQL database:  
 [UserAccount.cs](https://github.com/Markus9920/CSharp/blob/main/BudgetManager/Models/UserAccount.cs)
 
 This controller manages user-related API endpoints such as account creation and login.  
