@@ -10,6 +10,9 @@ JWT authentication is implemented, and token validation is handled by custom mid
 The project also uses enums to represent recurring expense types and categories, which improves data consistency and code readability.<br>
 [BudgetManager](https://github.com/Markus9920/Markus9920/blob/main/BudgedManager.md) <br><br>
 
+This is my own version on BudgetManager, that is still under work as a hobby project.<br>
+[BudgetPlanner](https://github.com/Markus9920/BudgetPlanner)<br><br>
+
 [Here is my school exercises I have made during my programming degree](https://github.com/Markus9920/CSharp)
 
 
