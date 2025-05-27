@@ -7,7 +7,7 @@ This is the backend of a budgeting application developed as a school project dur
 It allows users to manage and plan their monthly expenses. The development took around two months.
 AI tools were used for learning purposes, such as building the API, SQL database, and integrating Swagger documentation.
 JWT authentication is implemented, and token validation is handled by custom middleware.
-The project also uses enums to represent recurring expense types and categories, which improves data consistency and code readability.
+The project also uses enums to represent recurring expense types and categories, which improves data consistency and code readability.<br>
 [BudgetManager](https://github.com/Markus9920/Markus9920/blob/main/BudgedManager.md) <br><br>
 
 [Here is my school exercises I have made during my programming degree](https://github.com/Markus9920/CSharp)
